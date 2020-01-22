@@ -1,5 +1,5 @@
 /**
- * Temperatura Cálculo de temperatura media para la estación 1:
+ * Temperatura
  */
 public class Temperatura {
 
